@@ -1,11 +1,10 @@
 <?php
 /*
 Plugin Name: CRYPTO CALC
-Plugin URI: http://rozcode.pl/
 Description: TAX CALC CRYPTO - SHORTCODE COPY
 Version: 1.0.0
-Author: Rozcode.pl
-Author URI: http://rozcode.pl/
+Author: Patryk Różański
+Author URI: https://github.com/r45k1
 */
 
 function tax_calc() { 
@@ -80,10 +79,10 @@ echo '<div style="width: 335px;
 
 				   }
 				   if(12571 <= $wartosc && $wartosc <= 50270 ) {
-				  $a=$wartosc;
-				  $tax = 0.20;
-				  $c=$tax;
-				$e = "£";
+					$a=$wartosc;
+					$tax = 0.20;
+					$c=$tax;
+					$e = "£";
 
 				$d=$a*$c;
 				echo '<h2>INCOME: '.$e.''.$a.'</h2>';
