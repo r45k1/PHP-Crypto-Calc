@@ -1,4 +1,4 @@
 # PHP-Crypto-Calc
-Kalkulator Podatku UK
-Główny cel? Kalkulator może być używany w CMS (Wordpress) do chwilowego obliczania podatku od wymiany, handlem lub kopaniem kryptowalut.
+Crypto Calc CMS Wordpress plugin
+Integrated and customized WordPress CMS plugins to extend website functionality
 ![zdjęcie poglądowe](img/screen-plugin-cms.png)
